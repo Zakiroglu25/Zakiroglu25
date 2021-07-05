@@ -22,6 +22,11 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+<a href="https://github.com/thisisyusub">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thisisyusub&zsh-theme&show_icons=true&theme=react"/>
+</a>
+
+
 
 <a href="https://github.com/Zakiroglu25">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakiroglu25&theme=light&hide_langs_below=1" />
