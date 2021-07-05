@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/Zakiroglu25">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakiroglu25&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakiroglu25&theme=react&hide_langs_below=1" />
 </a>
 
 
