@@ -25,11 +25,12 @@ Here are some ideas to get you started:
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Zakiroglu25&theme=github)
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
+ 
 
  <br> 
  
  <hr>
  
  <br>
- ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 <div align="center">
