@@ -22,8 +22,13 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakiroglu25&theme=react&hide_langs_below=1" />
 </a>
 
-
-<div align="center">
-  <!--   GitHub stats graph -->
+<!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=darshanr27&theme=github)
+
+ <br> 
+ 
+ <hr>
+ 
+ <br>
+<div align="center">
