@@ -18,10 +18,6 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>   
 
-<a href="https://github.com/Zakiroglu25">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakiroglu25&theme=react&hide_langs_below=1" />
-</a>
-
  ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
  
 
